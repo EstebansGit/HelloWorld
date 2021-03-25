@@ -8,3 +8,4 @@ There will be DDLs for objects  and scripts working with thos eobjects.
 Edits : add
 
 -the scripts will allow creating a new DB and the table sor running the scripts
+-check the comments to run different script segments and see the results
